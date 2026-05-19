@@ -1,11 +1,13 @@
 # Analisis Sentimen Ulasan Aplikasi Portal Pulsa pada Google Play Store Menggunakan Metode Machine Learning
 
+# penelitian untuk SKRIPSI
+
 Proyek ini bertujuan untuk menganalisis sentimen ulasan pengguna aplikasi Portal Pulsa di Google Play Store dengan membandingkan performa 4 algoritma Machine Learning.
 
 ## 📊 Ringkasan Dataset & Preprocessing
 * **Sumber Data:** Data ulasan (scraping) dari Google Play Store.
-* **Total Data Awal:** 12.000 ulasan.
-* **Total Data Setelah Preprocessing:** 11.604 ulasan (setelah pembersihan data kosong/duplikat).
+* **Total Data Awal:** 4.302 ulasan.
+* **Total Data Setelah Preprocessing:**4.302 ulasan (setelah pembersihan data kosong/duplikat).
 * **Tahapan Preprocessing:** 1. Case Folding
   2. Cleansing (Pembersihan simbol, angka, dan emoji)
   3. Tokenizing
